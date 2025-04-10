@@ -33,7 +33,6 @@
 **Tech Stack:**  
 `React` `Redux` `@dnd-kit` `Tailwind CSS` `Vite` `API Ninjas` `ExerciseDB API`
 
-![GymPlanr Screenshot](https://raw.githubusercontent.com/rohan-vimal-iphtech/GymPlanr/main/assets/screenshot.png) <!-- Replace this with your actual image path -->
 
 ---
 
