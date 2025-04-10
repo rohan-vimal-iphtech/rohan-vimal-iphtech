@@ -94,7 +94,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rohanvimal) 
 - 💌 Email: *rohan.vimal@iphtechnologies.com*
-- 🌐 Portfolio: *Coming Soon!*
+- 🌐 Portfolio: *www.rohan1110.netlify.app*
 
 ---
 
